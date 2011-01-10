@@ -5,6 +5,7 @@ Django Project Skeleton
 Sample project skeleton used at iKraft Software for a typical django
 project.
 
+(Detailed docs coming soon)
 
 Overview 
 ---------
